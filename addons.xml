@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="repository.vodmx" name="VODMX Repositorio" version="2.0.0" provider-name="VODMX Team">
+    <addon id="repository.vodmx" name="VODMX Repositorio" version="3.0.0" provider-name="VODMX Team">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
