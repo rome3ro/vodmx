@@ -22,7 +22,7 @@
 
 <addon id="plugin.video.vodmx"
        name="[COLOR deeppink]VODMX[/COLOR]"
-       version="3.3.1"
+       version="3.3.2"
        provider-name="VODMX Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
