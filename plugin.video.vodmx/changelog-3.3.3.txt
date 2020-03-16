@@ -1,5 +1,3 @@
-Version 3.3.x
-Fixed history, ranking and support to external links
 Version 3.1.1
 Fixed titles with one source
 Version 3.0.9
