@@ -62,7 +62,7 @@ You can clone the project and host it in your own server.
 
 <addon id="plugin.video.vodmx"
        name="[COLOR deeppink]VODMX[/COLOR]"
-       version="4.1.0"
+       version="4.1.1"
        provider-name="VODMX Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
