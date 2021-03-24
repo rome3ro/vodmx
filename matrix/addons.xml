@@ -44,13 +44,13 @@ You can clone the project and host it in your own server.
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="VODMX Repositorio Oficial [Kodi 19 Matrix]">
+        <extension point="xbmc.addon.repository" name="VODMX Repositorio Oficial">
              <info compressed="false">https://raw.githubusercontent.com/rome3ro/vodmx/master/matrix/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/rome3ro/vodmx/master/matrix/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/rome3ro/vodmx/master/matrix/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para VODMX addon latino [Kodi 19 Matrix]</summary>
+            <summary>Repositorio para VODMX addon latino</summary>
             <description>Repositorio que pertenece al grupo creador del addon latino VODMX.</description>
             <platform>all</platform>
           <assets>
@@ -62,7 +62,7 @@ You can clone the project and host it in your own server.
 
 <addon id="plugin.video.vodmx"
        name="[COLOR deeppink]VODMX[/COLOR]"
-       version="4.1.3"
+       version="4.1.4"
        provider-name="VODMX Team">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
