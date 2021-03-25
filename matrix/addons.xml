@@ -62,7 +62,7 @@ You can clone the project and host it in your own server.
 
 <addon id="plugin.video.vodmx"
        name="[COLOR deeppink]VODMX[/COLOR]"
-       version="4.1.4"
+       version="4.2.0"
        provider-name="VODMX Team">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -80,7 +80,7 @@ You can clone the project and host it in your own server.
   <extension point="xbmc.addon.metadata">
     <summary>VODMX es un addon con contenido en latino. Visita nuestro sitio http://vodmx.tv y únete a nuestro grupo en telegram https://t.me/vodmx.</summary>
     <description>
-        Gracias a todos por su preferencia, si deseas que el addon siga en funcinamiento apóyanos con donaciones en http://paypal.me/vodmx. Este addon es para [Kodi 19 Matrix]
+        Gracias a todos por su preferencia, si deseas que el addon siga en funcinamiento apóyanos con donaciones en http://paypal.me/vodmx.
     </description>
     <platform>all</platform>
       <assets>
